@@ -1,8 +1,31 @@
+# Statistical Analysis Web Program
+
+## Service Introduction
+
+This web program offers various statistical analysis services. The main services currently provided are:
+
+1. **Descriptive Statistics**: Summarizes and describes basic features of the data. Calculates measures such as mean, median, and standard deviation to understand data distribution and characteristics.
+2. **T-Test**: 
+   - **One-sample T-Test**: Tests if the mean of a single sample differs from a specific value.
+   - **Paired-sample T-Test**: Tests the mean difference between two related samples.
+   - **Independent-sample T-Test**: Tests the mean difference between two independent samples.
+3. **ANOVA**: 
+   - **One-way ANOVA**: Tests mean differences among multiple groups.
+   - **Two-way ANOVA**: Tests effects of two independent variables and their interaction on a dependent variable.
+   - **Multivariate ANOVA (MANOVA)**: Tests mean differences among groups on multiple dependent variables simultaneously.
+4. **REGRESSION**: Models the relationship between an independent variable and a dependent variable through simple regression analysis.
+
+### Technology Stack
+
+- **Statistical Analysis Server**: Python FastAPI
+- **Backend**: Golang
+- **Frontend**: Next.js App Router
+
+Website: [https://www.analyze-hub.com](https://www.analyze-hub.com)
+
 # 통계 분석 웹 프로그램
 
 ## 서비스 소개
-
-### 한국어
 
 이 웹 프로그램은 다양한 통계 분석 서비스를 제공합니다. 현재 제공되는 주요 서비스는 다음과 같습니다:
 
@@ -19,35 +42,8 @@
 
 ### 사용된 기술 스택
 
-- **통계 분석 서버**: Python의 FastAPI
+- **통계 분석 서버**: Python FastAPI
 - **백엔드**: Golang
 - **프론트엔드**: Next.js App Router
 
 웹사이트 주소: [https://www.analyze-hub.com](https://www.analyze-hub.com)
-
-### English
-
-# Statistical Analysis Web Program
-
-## Service Introduction
-
-This web program offers a variety of statistical analysis services. The main services currently provided are as follows:
-
-1. **Descriptive Statistics**: Summarizes and describes the basic features of the data, including measures such as mean, median, and standard deviation to understand the distribution and characteristics of the data.
-2. **T-Test**: 
-   - **One-sample T-Test**: Tests whether the mean of a single sample is different from a specific value.
-   - **Paired-sample T-Test**: Tests the mean difference between two related samples.
-   - **Independent-sample T-Test**: Tests the mean difference between two independent samples.
-3. **ANOVA**: 
-   - **One-way ANOVA**: Tests the mean differences among multiple groups.
-   - **Two-way ANOVA**: Tests the effects of two independent variables and their interaction on a dependent variable.
-   - **Multivariate ANOVA (MANOVA)**: Tests the mean differences among groups on multiple dependent variables simultaneously.
-4. **REGRESSION**: Models the relationship between an independent variable and a dependent variable through simple regression analysis.
-
-### Technology Stack
-
-- **Statistical Analysis Server**: Python's FastAPI
-- **Backend**: Golang
-- **Frontend**: Next.js App Router
-
-Website: [https://www.analyze-hub.com](https://www.analyze-hub.com)
