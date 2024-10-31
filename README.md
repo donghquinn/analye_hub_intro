@@ -23,6 +23,8 @@ This web program offers various statistical analysis services. The main services
 
 Website: [https://www.analyze-hub.com](https://www.analyze-hub.com)
 
+For the best experience, we recommend accessing the website on a desktop environment.
+
 # 통계 분석 웹 프로그램
 
 ## 서비스 소개
@@ -47,3 +49,5 @@ Website: [https://www.analyze-hub.com](https://www.analyze-hub.com)
 - **프론트엔드**: Next.js App Router
 
 웹사이트 주소: [https://www.analyze-hub.com](https://www.analyze-hub.com)
+
+최적의 경험을 위해 데스크탑 환경에서 접속하는 것을 권장합니다.
