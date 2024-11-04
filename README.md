@@ -28,10 +28,10 @@ Website: [https://www.analyze-hub.com](https://www.analyze-hub.com)
 ### Demonstration Videos
 
 #### Paired-sample T-Test Demonstration
-![Paired-sample T-Test Demonstration](paired.mp4)
+![Paired-sample T-Test Demonstration](./paired.mp4)
 
 #### Two-way ANOVA Demonstration
-![Two-way ANOVA Demonstration](two_way_anova.mov)
+![Two-way ANOVA Demonstration](./two_way_anova.mov)
 
 ### TODO
 
@@ -68,10 +68,10 @@ Website: [https://www.analyze-hub.com](https://www.analyze-hub.com)
 ### 시연 영상
 
 #### 대응표본 검정 시연
-![대응표본 검정 시연](paired.mp4)
+![대응표본 검정 시연](./paired.mp4)
 
 #### 이원분산분석 시연
-![이원분산분석 시연](two_way_anova.mov)
+![이원분산분석 시연](./two_way_anova.mov)
 
 ### TODO
 
