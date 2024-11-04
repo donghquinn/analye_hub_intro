@@ -23,15 +23,15 @@ This web program offers various statistical analysis services. The main services
 
 Website: [https://www.analyze-hub.com](https://www.analyze-hub.com)
 
-** For the best experience, we recommend accessing the website on a desktop environment. **
+**For the best experience, we recommend accessing the website on a desktop environment**
 
 ### Demonstration Videos
 
 #### Paired-sample T-Test Demonstration
-![Paired-sample T-Test Demonstration](./paired.mp4)
+![Paired-sample T-Test Demonstration](paired.mp4)
 
 #### Two-way ANOVA Demonstration
-![Two-way ANOVA Demonstration](./two_way_anova.mov)
+![Two-way ANOVA Demonstration](twoway.mov)
 
 ### TODO
 
@@ -63,15 +63,15 @@ Website: [https://www.analyze-hub.com](https://www.analyze-hub.com)
 
 웹사이트 주소: [https://www.analyze-hub.com](https://www.analyze-hub.com)
 
-** 최적의 경험을 위해 데스크탑 환경에서 접속하는 것을 권장합니다. **
+**최적의 경험을 위해 데스크탑 환경에서 접속하는 것을 권장합니다**
 
 ### 시연 영상
 
 #### 대응표본 검정 시연
-![대응표본 검정 시연](./paired.mp4)
+![대응표본 검정 시연](paired.mp4)
 
 #### 이원분산분석 시연
-![이원분산분석 시연](./two_way_anova.mov)
+![이원분산분석 시연](twoway.mov)
 
 ### TODO
 
