@@ -23,7 +23,20 @@ This web program offers various statistical analysis services. The main services
 
 Website: [https://www.analyze-hub.com](https://www.analyze-hub.com)
 
-For the best experience, we recommend accessing the website on a desktop environment.
+** For the best experience, we recommend accessing the website on a desktop environment. **
+
+### Demonstration Videos
+
+#### Paired-sample T-Test Demonstration
+![Paired-sample T-Test Demonstration](paired.mp4)
+
+#### Two-way ANOVA Demonstration
+![Two-way ANOVA Demonstration](two_way_anova.mov)
+
+### TODO
+
+1. Currently, user registration/login is implemented using bcrypt and base64. We plan to introduce SSO (Single Sign-On) with providers like Google, Apple, and Kakao in the future.
+2. Implementing features to save analysis results as images or CSV files and generate textual summaries of the analysis results.
 
 # 통계 분석 웹 프로그램
 
@@ -50,4 +63,17 @@ For the best experience, we recommend accessing the website on a desktop environ
 
 웹사이트 주소: [https://www.analyze-hub.com](https://www.analyze-hub.com)
 
-최적의 경험을 위해 데스크탑 환경에서 접속하는 것을 권장합니다.
+** 최적의 경험을 위해 데스크탑 환경에서 접속하는 것을 권장합니다. **
+
+### 시연 영상
+
+#### 대응표본 검정 시연
+![대응표본 검정 시연](paired.mp4)
+
+#### 이원분산분석 시연
+![이원분산분석 시연](two_way_anova.mov)
+
+### TODO
+
+1. 현재 회원가입/로그인은 bcrypt와 base64를 함께 사용해서 사용하고 있으며, 추후에 Google, Apple, Kakao 등의 SSO를 도입할 예정입니다.
+2. 분석 결과 이미지 / CSV 저장 및 분석 결과 텍스트 생성 기능을 구현할 예정입니다.
